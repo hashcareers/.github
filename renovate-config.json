@@ -1,0 +1,6 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>hashintel/.github:renovate-config"],
+  "description": "HASH Careers base Renovate configuration for global use (disabled)",
+  "enabled": false
+}
